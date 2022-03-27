@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Farzan Nawaz.
-- 👀 I’m keen towards data science.
-- 🌱 I’m currently learning to interpret, predict and visualize data.
+- 👀 I’m keen towards Data Science, Machine Learning & Artificial Intelligence.
 - 📫 reach me at farzannawaz4787@gmail.com
 
 <!---
