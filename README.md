@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Farzan Nawaz.
+- 👋 Hi, I’m Md. Farzan Nawaz.
 - 👀 I’m keen towards Data Science, Machine Learning & Artificial Intelligence.
 - 📫 reach me at farzannawaz4787@gmail.com
 
